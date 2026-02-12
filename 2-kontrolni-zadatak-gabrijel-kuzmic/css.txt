@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 32px;
+    font-family: monospace;
+    background-color: #d9fbe8;
+    color: #16352a;
+}
+
+.glavni-okvir {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 34px;
+    background-color: white;
+    border: 1px solid #cde8da;
+    border-radius: 22px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.kartica {
+    margin-bottom: 20px;
+}
